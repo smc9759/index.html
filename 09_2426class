@@ -1,3 +1,13 @@
+모든 pitch는 sine wave의 조합으로 표현될 수 있다.
+복잡한 소리도 sine wave의 synthesis으로 analyse할 수 있다. 
+100Hz = 1초에 100번 반복
+F0= Fundamental frequency
+source = 성대
+filter = 인공 튜브
+기타 소리 = complex tone
+컴퓨터 소리 = pure tone
+pulse train 의 봉우리마다 간격이 같다. 
+
 Constirctor 입술, 혀 몸체, 혀끝
 Location and Degree changes로 모든 목소리를 구별할 수 있다. 
 Degree 
@@ -6,3 +16,4 @@ Degree
 3. R L W Y 
 4. M N
 MN은 코가 열렸지만 입 뒤쪽은 닫혔기 때문에 Stop이다.
+
